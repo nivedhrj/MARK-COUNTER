@@ -70,7 +70,7 @@ class Main {
         System.out.println("SHORT COMPUTER ANALYSIS");
         System.out.println("😀 Have Patience. We will get you right away...");
         try {
-            Thread.sleep(6000);
+            Thread.sleep(2000);
         }catch (InterruptedException e) {
             e.printStackTrace();
         }
