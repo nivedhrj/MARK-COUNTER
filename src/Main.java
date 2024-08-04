@@ -109,7 +109,7 @@ class Main {
             System.out.println("You have came a bit down from your previous total. You could Improve.😥");
 
         }
-        System.out.println("Thank you for using IntelliJ");
+        System.out.println("Thank you!");
         System.out.println("");
         System.out.println("Let us know your kind feedback:");
         Scanner sc = new Scanner(System.in);
